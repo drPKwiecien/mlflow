@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1709065635692
+current_stage: None
+description: ''
+last_updated_timestamp: 1709065635692
+name: Las
+run_id: 8efcfb70da604b9285373b82d8d0a3c9
+run_link: ''
+source: mlflow-artifacts:/188875176167796080/8efcfb70da604b9285373b82d8d0a3c9/artifacts/Las
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/188875176167796080/8efcfb70da604b9285373b82d8d0a3c9/artifacts/Las
+user_id: null
+version: 1

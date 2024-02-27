@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/661531139765903695/f04414da7c32458eabd6b45262c73b62/artifacts
+end_time: 1709060173541
+entry_point_name: ''
+experiment_id: '661531139765903695'
+lifecycle_stage: active
+run_id: f04414da7c32458eabd6b45262c73b62
+run_name: baseline_LR
+run_uuid: f04414da7c32458eabd6b45262c73b62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709060170561
+status: 3
+tags: []
+user_id: pkwiecien

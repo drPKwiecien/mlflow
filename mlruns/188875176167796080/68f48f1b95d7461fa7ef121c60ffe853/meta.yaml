@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/188875176167796080/68f48f1b95d7461fa7ef121c60ffe853/artifacts
+end_time: 1709065773699
+entry_point_name: ''
+experiment_id: '188875176167796080'
+lifecycle_stage: active
+run_id: 68f48f1b95d7461fa7ef121c60ffe853
+run_name: SVM
+run_uuid: 68f48f1b95d7461fa7ef121c60ffe853
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709065635712
+status: 3
+tags: []
+user_id: pkwiecien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/188875176167796080/fb29633dc39e41c591aea3ab49c0a7b9/artifacts
+end_time: 1709065855258
+entry_point_name: ''
+experiment_id: '188875176167796080'
+lifecycle_stage: active
+run_id: fb29633dc39e41c591aea3ab49c0a7b9
+run_name: XGB
+run_uuid: fb29633dc39e41c591aea3ab49c0a7b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709065841655
+status: 3
+tags: []
+user_id: pkwiecien

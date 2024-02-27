@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1709065855245
+current_stage: None
+description: ''
+last_updated_timestamp: 1709065855245
+name: XGB
+run_id: fb29633dc39e41c591aea3ab49c0a7b9
+run_link: ''
+source: mlflow-artifacts:/188875176167796080/fb29633dc39e41c591aea3ab49c0a7b9/artifacts/XGB
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/188875176167796080/fb29633dc39e41c591aea3ab49c0a7b9/artifacts/XGB
+user_id: null
+version: 1

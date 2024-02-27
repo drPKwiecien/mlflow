@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1709065580855
+current_stage: None
+description: ''
+last_updated_timestamp: 1709065580855
+name: Regresja
+run_id: 5e6bc77f0bcd43e3b94469c5f42269f4
+run_link: ''
+source: mlflow-artifacts:/188875176167796080/5e6bc77f0bcd43e3b94469c5f42269f4/artifacts/Regresja
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/188875176167796080/5e6bc77f0bcd43e3b94469c5f42269f4/artifacts/Regresja
+user_id: null
+version: 1

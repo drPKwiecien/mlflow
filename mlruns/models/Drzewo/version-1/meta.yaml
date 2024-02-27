@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1709065582997
+current_stage: None
+description: ''
+last_updated_timestamp: 1709065582997
+name: Drzewo
+run_id: 3de9ffa97a5847d885e13639e957b4a6
+run_link: ''
+source: mlflow-artifacts:/188875176167796080/3de9ffa97a5847d885e13639e957b4a6/artifacts/Drzewo
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/188875176167796080/3de9ffa97a5847d885e13639e957b4a6/artifacts/Drzewo
+user_id: null
+version: 1

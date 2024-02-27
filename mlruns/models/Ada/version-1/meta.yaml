@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1709065913024
+current_stage: None
+description: ''
+last_updated_timestamp: 1709065913024
+name: Ada
+run_id: 5da068a312c94766aa977b19a48b126e
+run_link: ''
+source: mlflow-artifacts:/188875176167796080/5da068a312c94766aa977b19a48b126e/artifacts/Ada
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/188875176167796080/5da068a312c94766aa977b19a48b126e/artifacts/Ada
+user_id: null
+version: 1

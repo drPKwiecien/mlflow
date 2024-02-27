@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/188875176167796080/5e6bc77f0bcd43e3b94469c5f42269f4/artifacts
+end_time: 1709065580863
+entry_point_name: ''
+experiment_id: '188875176167796080'
+lifecycle_stage: active
+run_id: 5e6bc77f0bcd43e3b94469c5f42269f4
+run_name: Regresja
+run_uuid: 5e6bc77f0bcd43e3b94469c5f42269f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709065578716
+status: 3
+tags: []
+user_id: pkwiecien
