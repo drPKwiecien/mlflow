@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/437b762f826d43eeb4e3220f37e6e169/artifacts
+end_time: 1709574043788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 437b762f826d43eeb4e3220f37e6e169
+run_name: Decision Tree
+run_uuid: 437b762f826d43eeb4e3220f37e6e169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709574042362
+status: 3
+tags: []
+user_id: pkwiecien

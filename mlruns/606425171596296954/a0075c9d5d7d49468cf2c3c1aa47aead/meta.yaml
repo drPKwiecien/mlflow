@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/606425171596296954/a0075c9d5d7d49468cf2c3c1aa47aead/artifacts
+end_time: 1709578594332
+entry_point_name: ''
+experiment_id: '606425171596296954'
+lifecycle_stage: active
+run_id: a0075c9d5d7d49468cf2c3c1aa47aead
+run_name: Linear SVC
+run_uuid: a0075c9d5d7d49468cf2c3c1aa47aead
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709578594103
+status: 3
+tags: []
+user_id: pkwiecien

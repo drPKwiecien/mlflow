@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/606425171596296954
+creation_time: 1709575760472
+experiment_id: '606425171596296954'
+last_update_time: 1709575760472
+lifecycle_stage: active
+name: model_selection_spark_cv

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/606425171596296954/393f60c906604dbea8f22df53b0119ab/artifacts
+end_time: 1709578483966
+entry_point_name: ''
+experiment_id: '606425171596296954'
+lifecycle_stage: active
+run_id: 393f60c906604dbea8f22df53b0119ab
+run_name: GBT
+run_uuid: 393f60c906604dbea8f22df53b0119ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709578483600
+status: 3
+tags: []
+user_id: pkwiecien
